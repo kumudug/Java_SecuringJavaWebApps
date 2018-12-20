@@ -7,6 +7,9 @@
     * Information Security Timelines and Statistics
 * ~~The vulnerable application used for demos~~
     * ~~[terracotta-bank](https://github.com/jzheaux/terracotta-bank)~~
+* To check passoword strength you can use
+    * How secure is my password [link](https://howsecureismypassword.net/)
+* 
 
 
 
