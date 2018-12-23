@@ -3,6 +3,8 @@
 * __Realtime hackings of the world__ 
     * Nordscope [map](http://map.norsecorp.com/#/)
     * They do this by placing honey pods all over the world
+* Vulnerability Types
+    * Enumeration Vulnerability 
 * __[hackmageddon](https://www.hackmageddon.com/)__
     * Information Security Timelines and Statistics
 * ~~The vulnerable application used for demos~~
