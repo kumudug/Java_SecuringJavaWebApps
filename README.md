@@ -13,6 +13,7 @@
     * How secure is my password [link](https://howsecureismypassword.net/)
 * The vulnerable application used for demos
     * [terracotta-bank-spring](https://github.com/jzheaux/terracotta-bank-spring)
+    * Cloned to my repo [terracotta-bank-spring](https://github.com/kumudug/terracotta-bank-spring)
 * OWASP __ASVS__
     * OWASP Application Security Verification Standard
     * Can be used to verify your applications security
