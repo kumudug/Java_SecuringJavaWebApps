@@ -7,6 +7,7 @@
     * Enumeration Vulnerability 
 * __[hackmageddon](https://www.hackmageddon.com/)__
     * Information Security Timelines and Statistics
+* John the ripper password cracker [link](https://www.openwall.com/john/)
 * ~~The vulnerable application used for demos~~
     * ~~[terracotta-bank](https://github.com/jzheaux/terracotta-bank)~~
 * To check passoword strength you can use
