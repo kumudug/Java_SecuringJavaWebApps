@@ -10,6 +10,7 @@
 * Tools
     * John the ripper password cracker [link](https://www.openwall.com/john/)
     * BetterCAP - Man in the middle MITM attack tool [link](https://www.bettercap.org/legacy/)
+    * OpenSSL - Tool for TLS and SSL for certificate creating and stuff [link](https://www.openssl.org/)
 * ~~The vulnerable application used for demos~~
     * ~~[terracotta-bank](https://github.com/jzheaux/terracotta-bank)~~
 * To check passoword strength you can use
