@@ -32,6 +32,17 @@
     * Import the certificate
         * The app certificate needs to go to the key store
         * CA certificate needs to go to the key store and the browser
+        * First import the CA certificate
+            * keytool -import -file terracotta.crt \ -alias terracotta \ -keystore terracotta.jks
+        * Move the keystore to the home directory
+            * mv terracotta.jks ~/
+        * Mofify the server.xml file of tomcat
+            * Uncomment the `<Connector port="8443" ...`
+            * Give the 
+                * Location of the key store
+                * Keystore password
+                * alias
+        * Import the CA certificate to the browser
   
 * ~~The vulnerable application used for demos~~
     * ~~[terracotta-bank](https://github.com/jzheaux/terracotta-bank)~~
